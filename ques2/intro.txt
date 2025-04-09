@@ -1,0 +1,4 @@
+q.Write a program to find the sum of elements in a given range [L, R] using a prefix sum 
+array. Write its algorithm, program. Find its time and space complexities. Explain with 
+suitable example.
+a. the time complexity and space complexity will be: O(n)  and O(n) respectively 

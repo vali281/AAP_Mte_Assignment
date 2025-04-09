@@ -1,0 +1,4 @@
+q. Solve the problem of finding the equilibrium index in an array. Write its algorithm, 
+program. Find its time and space complexities. Explain with suitable example. 
+a. for brute force : the time complexity is O(n^2) and space complexity is O(1)
+    for prefix sum approach the time complexity is O(n) and space complexity is O(n)
