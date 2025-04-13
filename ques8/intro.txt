@@ -1,0 +1,4 @@
+q.Find the longest palindromic substring in a given string. Write its algorithm, program. 
+Find its time and space complexities. Explain with suitable example.
+a. the time and space complexity is O(n^3) and O(1) respectively for the brute force approach
+    anf for the better approach the  time and space complexity is O(n^2) and O(1) respectively

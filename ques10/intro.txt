@@ -1,0 +1,2 @@
+q.Generate all permutations of a given string. Write its algorithm, program. Find its time 
+and space complexities. Explain with suitable example. 

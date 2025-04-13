@@ -1,0 +1,5 @@
+q.Explain the sliding window technique and its use in string problems.  
+a.It’s an optimization technique used to reduce the time complexity of problems that involve linear data structures (like arrays or strings).
+    The idea is simple:
+        Instead of checking all possible subarrays or substrings (which takes O(n²) time), 
+        you maintain a "window" (a subset of elements) and slide it over the data to compute results on the fly.

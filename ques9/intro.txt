@@ -1,0 +1,3 @@
+q.Find the longest common prefix among a list of strings. Write its algorithm, program. 
+Find its time and space complexities. Explain with suitable example. 
+a.time and space complexity is O(n*m) and O(1) respectively

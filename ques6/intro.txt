@@ -1,0 +1,5 @@
+q.Find the length of the longest substring without repeating characters. Write its 
+algorithm, program. Find its time and space complexities. Explain with suitable 
+example
+a. in brute force we used 2 loops which were running from 0 to n so time and space complexity is O(n^2) and O(1) respectively
+     in better approach using 2 pointer and hash so time and space complexity is O(n) and O(1) respectively

@@ -1,0 +1,5 @@
+q.Check if an array can be split into two parts such that the sum of the prefix equals the 
+sum of the suffix. Write its algorithm, program. Find its time and space complexities. 
+Explain with suitable example. 
+a. time complexity : O(n)
+    space complexity : O(n)
