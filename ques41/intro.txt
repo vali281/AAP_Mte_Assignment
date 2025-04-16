@@ -1,0 +1,2 @@
+q. Write a program to find the maximum subarray sum using Kadane’s algorithm.
+a. time and space complexity is O(n) and O(1) respectively

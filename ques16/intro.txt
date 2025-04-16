@@ -1,0 +1,4 @@
+q. Find the majority element in an array that appears more than n/2 times. Write its 
+algorithm, program. Find its time and space complexities. Explain with suitable 
+example.
+a. time and space complexity is O(n) and O(1) respectively

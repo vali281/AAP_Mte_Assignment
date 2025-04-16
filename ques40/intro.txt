@@ -1,0 +1,2 @@
+q. Solve the problem of finding the element with maximum frequency in an array. Write its algorithm, program. Find its time and space complexities. Explain with suitable example.
+a. time and space complexity is O(n) and O(n) respectively

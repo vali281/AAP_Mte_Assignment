@@ -1,0 +1,2 @@
+q. Write a program to check if an integer is a palindrome without converting it to a string. Write its algorithm, program. Find its time and space complexities. Explain with suitable example.
+a. time and space complexity is O(log n) and O(1) respectively

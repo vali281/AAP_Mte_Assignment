@@ -1,0 +1,4 @@
+q. Rearrange numbers into the lexicographically next greater permutation. Write its 
+algorithm, program. Find its time and space complexities. Explain with suitable 
+example. 
+a. time and space complexity is O(n) and O(1) respectively

@@ -1,0 +1,11 @@
+q. Explain the difference between subsets and permutations with examples.
+a. Key Points:
+   - **Subsets**:
+     - A subset is any combination of elements from a set, including the empty set and the set itself.
+     - Order does not matter.
+     - Example: For the set `{1, 2, 3}`, the subsets are `{}`, `{1}`, `{2}`, `{3}`, `{1, 2}`, `{1, 3}`, `{2, 3}`, `{1, 2, 3}`.
+   
+   - **Permutations**:
+     - A permutation is a specific arrangement or ordering of elements.
+     - The order of elements matters.
+     - Example: For the set `{1, 2, 3}`, the permutations are `{1, 2, 3}`, `{1, 3, 2}`, `{2, 1, 3}`, `{2, 3, 1}`, `{3, 1, 2}`, `{3, 2, 1}`.

@@ -1,0 +1,2 @@
+q. How to check if a number is a power of two using bit manipulation. Write its algorithm, program. Find its time and space complexities. Explain with suitable example.
+a. time and space complexity is O(1) and O(1) respectively

@@ -1,0 +1,2 @@
+q. How to find the intersection of two linked lists. Write its algorithm, program. Find its time and space complexities. Explain with suitable example.
+a. time and space complexity is O(m + n) and O(1) respectively

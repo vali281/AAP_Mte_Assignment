@@ -1,0 +1,2 @@
+q. Implement two stacks in a single array. Write its algorithm, program. Find its time and space complexities. Explain with suitable example.
+a. time and space complexity is O(1) for push/pop operations and O(n) for space complexity where n is the size of the array.

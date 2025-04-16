@@ -1,0 +1,2 @@
+q. How to find the maximum XOR of two numbers in an array. Write its algorithm, program. Find its time and space complexities. Explain with suitable example.
+a. time and space complexity is O(n) and O(1) respectively

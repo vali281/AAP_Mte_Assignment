@@ -1,0 +1,2 @@
+q.Find two numbers in a sorted array that add up to a target. Write its algorithm, program. 
+Find its time and space complexities. Explain with suitable example. 

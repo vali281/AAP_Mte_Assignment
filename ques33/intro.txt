@@ -1,0 +1,12 @@
+q. Explain the sliding window technique and its applications in array problems.
+a. Key Points:
+   - The sliding window technique is used to solve problems that involve a contiguous subarray or subsequence of a fixed size or variable size.
+   - It involves two pointers or indices that represent the current subarray window.
+   - The "window" slides across the array, adjusting its size or position to compute desired results.
+   
+   Applications:
+   - **Maximum/Minimum in a Subarray**: Finding the max/min in every sliding window of size `k`.
+   - **Subarray Sum**: Finding the sum of all elements in every sliding window of size `k`.
+   - **Substring Problems**: Solving problems like longest substring without repeating characters.
+   - **Pattern Matching**: Finding occurrences of a pattern within a string using sliding windows.
+   - **Dynamic Window Size**: Solving problems where the size of the window is dynamic based on conditions.

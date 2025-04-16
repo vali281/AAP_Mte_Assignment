@@ -1,0 +1,3 @@
+q. How to merge two sorted linked lists into one sorted list. Write its algorithm, program. 
+Find its time and space complexities. Explain with suitable example. 
+a. time and space complexity is O(n + m) and O(1) respectively

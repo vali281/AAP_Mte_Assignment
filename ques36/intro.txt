@@ -1,0 +1,2 @@
+q. Generate all subsets of a given array. Write its algorithm, program. Find its time and space complexities. Explain with suitable example.
+a. time and space complexity is O(2^n) and O(n) respectively

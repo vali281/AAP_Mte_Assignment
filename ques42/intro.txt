@@ -1,0 +1,12 @@
+q. Explain the concept of dynamic programming and its use in solving the maximum subarray problem.
+a. Key Points:
+   - **Dynamic Programming (DP)**:
+     - A technique used for solving problems by breaking them down into smaller subproblems and storing the results of these subproblems to avoid redundant calculations.
+     - It is typically used when the problem has optimal substructure and overlapping subproblems.
+   
+   - **Maximum Subarray Problem**:
+     - The problem asks for the contiguous subarray within a one-dimensional numeric array that has the largest sum.
+     - Using DP, we can solve this problem in O(n) time using Kadane's Algorithm:
+       - Maintain a running sum (`currentSum`) and update it by considering whether to add the current element to the previous sum or start a new subarray with the current element.
+       - If the current sum becomes negative, reset it to 0 because negative sums would decrease the total sum of any future subarray.
+       - The maximum of `currentSum` across all steps gives the maximum subarray sum.

@@ -1,2 +1,3 @@
-q.Generate all permutations of a given string. Write its algorithm, program. Find its time 
+q. Generate all permutations of a given string. Write its algorithm, program. Find its time 
 and space complexities. Explain with suitable example. 
+a. time and space complexity is O(n * n!) and O(n) respectively

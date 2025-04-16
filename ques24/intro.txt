@@ -1,0 +1,14 @@
+# Key Points:
+- Bit manipulation involves direct operations on binary digits (bits) of numbers
+- Common operations: AND (&), OR (|), XOR (^), NOT (~), shifts (<<, >>)
+- Advantages:
+  1. Space Efficiency: Pack multiple flags/values in single integer
+  2. Speed: Hardware-level operations are extremely fast
+  3. Atomic Operations: Many operations execute in constant time
+  4. Algorithm Optimization: Enables elegant solutions for many problems
+- Applications:
+  - Compression algorithms
+  - Cryptography
+  - Network protocols
+  - Graphics programming
+  - Competitive programming optimizations

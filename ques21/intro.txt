@@ -1,0 +1,2 @@
+q. How to count the number of 1s in the binary representation of numbers from 0 to n. Write its algorithm, program. Find its time and space complexities. Explain with suitable example.
+a. time and space complexity is O(n) and O(1) [excluding output]/O(n) [including output] respectively

@@ -1,0 +1,2 @@
+q. Use a deque to find the maximum in every sliding window of size K. Write its algorithm, program. Find its time and space complexities. Explain with suitable example.
+a. time and space complexity is O(n) and O(K) respectively

@@ -1,0 +1,2 @@
+q. Find all unique combinations of numbers that sum to a target. Write its algorithm, program. Find its time and space complexities. Explain with suitable example.
+a. time and space complexity is O(2^n) and O(target) respectively

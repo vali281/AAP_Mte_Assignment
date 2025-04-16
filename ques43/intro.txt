@@ -1,0 +1,2 @@
+q. Solve the problem of finding the top K frequent elements in an array. Write its algorithm, program. Find its time and space complexities. Explain with suitable example.
+a. time and space complexity is O(n log k) and O(n) respectively

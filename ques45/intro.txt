@@ -1,0 +1,14 @@
+q. Explain the concept of priority queues and their applications in algorithm design.
+a. Key Points:
+   - **Priority Queue**:
+     - A data structure where each element is assigned a priority.
+     - Elements are dequeued in order of their priority, not just the order they were enqueued.
+     - It is typically implemented using a **heap** (min-heap or max-heap).
+   
+   - **Applications in Algorithm Design**:
+     1. **Dijkstra’s Algorithm**: Used for finding the shortest path in a graph. A priority queue stores the nodes with the smallest distance.
+     2. **Huffman Coding**: Used in data compression algorithms to build an optimal prefix tree.
+     3. **A* Search**: Used in pathfinding and graph traversal, where a priority queue helps select the most promising node.
+     4. **Merge Sorted Streams**: When merging multiple sorted lists, a priority queue can efficiently find the smallest (or largest) element.
+     5. **Job Scheduling**: In operating systems, priority queues are used for scheduling tasks with different priorities.
+     6. **Median Maintenance**: Finding the median in a dynamic set of numbers can be efficiently done with two priority queues (min-heap and max-heap).
